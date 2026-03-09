@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NORDA-ADMIN</string>
+    <string name="title_activity_main">norda_projectmd</string>
+    <string name="package_name">com.nord.md</string>
+    <string name="custom_url_scheme">com.nord.md</string>
+</resources>
